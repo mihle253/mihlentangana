@@ -10,8 +10,8 @@ body {
     text-align: center;
 }
 .nav a {
-    color:aliceblue
-    text-decoration:solid
+    color:aliceblue ;
+    text-decoration:solid;
     padding:10px 20px;
     display:inline-block
 }
